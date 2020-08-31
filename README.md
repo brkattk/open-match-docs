@@ -43,4 +43,4 @@ Please read the [contributing](CONTRIBUTING.md) guide for directions on submitti
 
 ## License
 
-Apache 2.022
+Apache 2.0
